@@ -1,7 +1,7 @@
 
 The MIT License (MIT)
 
-Copyright (c) 2026 Simo14
+Copyright (c) 2026 Simona Borrasso
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
